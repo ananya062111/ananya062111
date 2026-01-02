@@ -25,3 +25,9 @@ const ananya = {
   askMeAbout: ["Next.js", "Web GIS", "Google Earth Engine", "Python"],
   funFact: "I turn satellite data into real-world solutions 🚀"
 }
+
+![snake](https://raw.githubusercontent.com/ananya062111/ananya062111/output/github-contribution-grid-snake.svg)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ananya062111&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ananya062111&layout=compact&theme=radical)
